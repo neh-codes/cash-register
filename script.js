@@ -8,7 +8,7 @@ const nextContainer = document.querySelector(".next-container");
 
 const message = document.querySelector("#error-message");
 
-const availableNotes = [2000, 500, 100, 20, 10, 5, 1];
+const availableNotes = [2000, 500, 100, 50, 20, 10, 5, 1];
 
 const noOfNotes = document.querySelectorAll(".no-of-notes");
 
