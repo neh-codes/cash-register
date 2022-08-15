@@ -9,6 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 a{
    color:  #0D6EFD;
@@ -48,9 +49,6 @@ table, th,td{
 }
 
 @media only screen and (max-width: 768px) {
-body{
-    background-position: right;
-}
     .container{
         margin: 3rem auto 3rem;
         width: 85%;
